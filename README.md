@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## OpenAi is not for free
+
+This is basic setup I did, if i get any chance to test the Open API, i will do future commits with latest updates
+you can refer [ai Documention for nextjs](https://sdk.vercel.ai/docs/getting-started/nextjs-app-router) Alos share me if you have free API key :P
+
 ## Getting Started
 
 First, run the development server:
